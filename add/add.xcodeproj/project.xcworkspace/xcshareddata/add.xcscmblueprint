@@ -1,0 +1,36 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BA12CE5764740F080DFB34CA9FE9F528F254A28D" : 0,
+    "9F52F693FF8B3789210D483596F192CC7AF62CBA" : 0,
+    "55A67A4F0CD424810BBDE0AE7530143564AAA35D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "820DC0CC-B687-46C8-A331-E563D77DF321",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BA12CE5764740F080DFB34CA9FE9F528F254A28D" : "add\/add\/",
+    "9F52F693FF8B3789210D483596F192CC7AF62CBA" : "..\/..",
+    "55A67A4F0CD424810BBDE0AE7530143564AAA35D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "add",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "add.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/luckysiqin\/20131105804-definition.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "55A67A4F0CD424810BBDE0AE7530143564AAA35D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/luckysiqin\/siqin.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9F52F693FF8B3789210D483596F192CC7AF62CBA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/luckysiqin\/add.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BA12CE5764740F080DFB34CA9FE9F528F254A28D"
+    }
+  ]
+}

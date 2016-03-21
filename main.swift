@@ -17,3 +17,4 @@ func multiple0f(multiplier: Int,andValue: Int){
    print("\(multiplier) * \(andValue) = \(multiplier * andValue)")
 }
 multiple0f(5, andValue: 10)
+
